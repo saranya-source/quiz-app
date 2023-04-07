@@ -45,8 +45,7 @@ Finally, run the development server:
 ```bash
 python manage.py runserver
 ```
-## Other Deployment Methods
-I haven't built a dockerfile for this specific app but I think after connecting it to postgres you'll have to run the ```python manage.py migrate``` command once inside the container's shell. Same with heroku etc. I tested deployment on both heroku and apache and it works properly.
+
 
 ## Notes
 * The contents of one option of a question should be 'Skip' if you want a question to be skippable.
@@ -59,8 +58,5 @@ I haven't built a dockerfile for this specific app but I think after connecting 
 ![exponential-quiz](screenshots/abifog-exponential-quiz-3.png)
 
 
-## Credits:
-* [SIBTC](https://github.com/sibtc/django-multiple-user-types-example/) for the base quiz layout and mechanism.
-* [StartBootstrap](https://startbootstrap.com/themes/sb-admin-2/) for the css template.
 
 
