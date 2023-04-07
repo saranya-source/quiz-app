@@ -1,0 +1,1 @@
+web: gunicorn exponential_quiz.wsgi
