@@ -63,5 +63,4 @@ I haven't built a dockerfile for this specific app but I think after connecting 
 * [SIBTC](https://github.com/sibtc/django-multiple-user-types-example/) for the base quiz layout and mechanism.
 * [StartBootstrap](https://startbootstrap.com/themes/sb-admin-2/) for the css template.
 
-## License
-The source code is released under the [MIT License](https://github.com/IceWreck/ExponentialQuizDjango/blob/master/LICENSE).
+
